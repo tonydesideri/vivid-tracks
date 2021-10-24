@@ -50,7 +50,7 @@ luzes para auxiliar e alertar o motorista que há pessoas passando pela faixa.
 
 <p align="center">
   <a href="" rel="noopener">
- <img src=".github\mockup.png" alt="Project logo" width=400px></a>
+ <img src=".github\mockup.jpg" alt="Mockup" width=400px></a>
 </p>
 
 ## 🏁 Iniciando <a name = "getting_started"></a>
