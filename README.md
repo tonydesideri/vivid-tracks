@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Manaus Visão Hack Experience</h1>
-<h2 align="center">TRAVESSIA SEGURA</h2>
+<h2 align="center">VIVID TRACKS</h2>
 <h2 align="center">Travessia segura de depestres</h2>
 
 <div align="center">
@@ -28,7 +28,7 @@
 </p>
 
 
-## 🧐 Sobre <a name = "about"></a>
+<p align="center"><a name = "about">🧐 Sobre</a></p>
 
 <p align="center">Uma das pautas preponderantes acerca do tema mobilidade urbana é, justamente, a forma com que sistemas de transporte são geridos. O desenvolvimento de métodos paliativos é realizado aos montes por órgãos governamentais de urbanização. Mas um problema é persistente: atravessar ruas movimentadas pode ser verdadeiro desafio a certos pedestres. É considerável que
 pessoas com mobildiade reduzida demoram mais tempos fazer uma travassia em uma via com transito pesado.
@@ -43,35 +43,15 @@ luzes para auxiliar e alertar o motorista que há pessoas passando pela faixa.
     <br>
 </p>
 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=650px src=".github\gif_video.gif" alt="Preview logo"></a>
-</p>
-
 ## 🏁 Iniciando <a name = "getting_started"></a>
 
-Instruções rodar o aplicativo
-
-### ⚒ Instalando <a name = "installing"></a>
-
-```
-git clone https://github.com/tonydesideri/trackandmapmobile
-
-
-Navegue até a pasta do repositório
-$ cd .../trackandmapmobile
-
-# Instale as dependêcias
-$ npm i || yarn install
-
-# Execute o aplicativo
-$ npm android || yarn android
-
-```
+- Instruções rodar o projeto
 
 ## ⛏️ Tecnologias Utilizadas <a name = "built_using"></a>
+- Falta colcoar as tecnologias aqui!
 
 ### Hardware
+- Colocoar aqui os hardwares utilizados!
 - [React-Native](https://reactnative.dev/) - Desenvolvimento híbrido
 - [React Navigation](https://reactnavigation.org/) - Navegação entre rotas da aplicação
 - [Styled Components](https://styled-components.com/) - Estilos de componentes
@@ -87,9 +67,10 @@ $ npm android || yarn android
 ## ✍️ Autores <a name = "authors"></a>
 
 - [Tony Desideri - Developer](https://www.linkedin.com/in/tonydesideri/)
-- [Thiago cavalcante do Nascimento Silva -	UI/UX](https://www.linkedin.com/in/thiago-cavalcante-2b9513b9/vidbr/)
+- [Thiago cavalcante do Nascimento Silva - UI/UX](https://www.linkedin.com/in/thiago-cavalcante-2b9513b9/vidbr/)
 - [Joseph Geovanny Hage De Souza  - Developer](https://www.instagram.com/Josephhage_/)
-- [Lucas Alexandre da Cunha Teixeira - ]
+- [Lucas Alexandre da Cunha Teixeira - Developer]()
+- [Wellison Ricartes Silva de Souza - UI/UX](https://www.linkedin.com/in/wellison-ricartes-silva-de-souza)
 
 
 ## 🗒 Licença
