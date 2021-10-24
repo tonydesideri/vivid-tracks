@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src=".github\logo.png" alt="Project logo" width=250px></a>
+ <img src=".github\logo.png" alt="Project logo" width=400px></a>
 </p>
 
 <h1 align="center">Manaus Visão Hack Experience</h1>
