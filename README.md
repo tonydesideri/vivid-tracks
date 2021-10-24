@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Manaus Visão Hack Experience</h1>
-<h2 align="center">Safe Crossing</h2>
+<h2 align="center">TRAVESSIA SEGURA</h2>
 <h2 align="center">Travessia segura de depestres</h2>
 
 <div align="center">
@@ -89,6 +89,7 @@ $ npm android || yarn android
 - [Tony Desideri - Developer](https://www.linkedin.com/in/tonydesideri/)
 - [Thiago cavalcante do Nascimento Silva -	UI/UX](https://www.linkedin.com/in/thiago-cavalcante-2b9513b9/vidbr/)
 - [Joseph Geovanny Hage De Souza  - Developer](https://www.instagram.com/Josephhage_/)
+- [Lucas Alexandre da Cunha Teixeira - ]
 
 
 ## 🗒 Licença
