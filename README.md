@@ -32,20 +32,27 @@
 
 <p align="center">Uma das pautas preponderantes acerca do tema mobilidade urbana é, justamente, a forma com que sistemas de transporte são geridos. O desenvolvimento de métodos paliativos é realizado aos montes por órgãos governamentais de urbanização. Mas um problema é persistente: atravessar ruas movimentadas pode ser verdadeiro desafio a certos pedestres. É considerável que
 pessoas com mobildiade reduzida demoram mais tempos fazer uma travassia em uma via com transito pesado.
+</p>
 
+<p align="center">
 Pensando nessas pessoas, como idosos e pessoas com necessidades especiais surge a necessidade de criar
 uma solução que possa auxiliar essas pessoas a fazer um travessia mais segura em faixas de pedestres.
+</p>
 
+<p align="center">
 A solução se basea na detecção de pessoas na faixa de pedestres e otimização do tempo do semáforo, tanto do pedestre quanto do
 motorista. São instalado sensores e cameras para fazer a captura de imagens que passarão por uma inteligência para detectar que
 é uma pessoa que está à atravessar a faixa naquele instante e otimizar o tempo do semáforo, há também emissores de som e feixes de
 luzes para auxiliar e alertar o motorista que há pessoas passando pela faixa.
-    <br>
 </p>
+<br>
+<br>
 
 ## 🏁 Iniciando <a name = "getting_started"></a>
 
 - Instruções rodar o projeto
+
+<br>
 
 ## ⛏️ Tecnologias Utilizadas <a name = "built_using"></a>
 - Falta colcoar as tecnologias aqui!
@@ -56,6 +63,7 @@ luzes para auxiliar e alertar o motorista que há pessoas passando pela faixa.
 - [React Navigation](https://reactnavigation.org/) - Navegação entre rotas da aplicação
 - [Styled Components](https://styled-components.com/) - Estilos de componentes
 
+<br>
 
 ## 🤔 Como contribuir <a name = "contribute"></a>
 
@@ -63,6 +71,8 @@ luzes para auxiliar e alertar o motorista que há pessoas passando pela faixa.
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
 - Faça push para a sua branch: `git push origin minha-feature`.
+
+<br>
 
 ## ✍️ Autores <a name = "authors"></a>
 
@@ -72,6 +82,7 @@ luzes para auxiliar e alertar o motorista que há pessoas passando pela faixa.
 - [Lucas Alexandre da Cunha Teixeira - Developer]()
 - [Wellison Ricartes Silva de Souza - UI/UX](https://www.linkedin.com/in/wellison-ricartes-silva-de-souza)
 
+<br>
 
 ## 🗒 Licença
 
